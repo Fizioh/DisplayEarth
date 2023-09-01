@@ -1,5 +1,5 @@
 // TypographyComponent.tsx
-import React, { FC, ReactNode } from 'react';
+import  { FC, ReactNode } from 'react';
 import { Typography, TypographyProps } from '@mui/material';
 
 interface TypographyComponentProps extends TypographyProps {

@@ -1,5 +1,5 @@
 // ButtonComponent.tsx
-import React, { FC, ReactNode, MouseEvent } from 'react';
+import { FC, ReactNode, MouseEvent } from 'react';
 import { Button } from '@mui/material';
 
 interface ButtonComponentProps {

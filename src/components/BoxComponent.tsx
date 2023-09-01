@@ -1,5 +1,5 @@
 // BoxComponent.tsx
-import React, { FC, CSSProperties } from 'react';
+import { FC, CSSProperties } from 'react';
 import { Box } from '@mui/material';
 
 interface BoxComponentProps {
